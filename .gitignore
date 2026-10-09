@@ -1,1 +1,7 @@
-.vscode/*
+build/
+*.exe
+*.o
+*.obj
+.vscode/
+data/*.csv
+*.bin
